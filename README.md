@@ -32,7 +32,7 @@ $ npm install bower -g
 $ npm install
 ```
 
-运行
+运行（默认地址 http://localhost:7000）
 ```
 $ node app.js
 ```
