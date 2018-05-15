@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:Ebookcoin/client.git
+[submodule "test/ebookcoin-js"]
+	path = test/ebookcoin-js
+	url = git@github.com:Ebookcoin/ebookcoin-js.git
